@@ -1,4 +1,4 @@
-#KEY CONTROLS:
+# KEY CONTROLS:
 
 W - Jump
 A - Move left
